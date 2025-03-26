@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is **Yuan Cheng**. I'm from Leeds Business School in the UK and I'm currently in my first year of PhD in decision science:) 
+- 😄 Pronouns: she/her
+- 📫 How to reach me: ddjd7025@leeds.ac.uk
+- 🌱 I’m currently learning navigating GitHub on building up behavioural experiments
+- 🔭 I’m currently working on setting up a pilot experiment for my thesis
+
 <!--
 **yuan-cheng-7025/yuan-cheng-7025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
